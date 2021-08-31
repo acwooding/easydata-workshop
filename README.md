@@ -49,7 +49,7 @@ python -m pip install -f requirements.txt
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/hackalog/cookiecutter-easydata
+    cookiecutter https://github.com/hackalog/easydata-workshop
 
 
 ### The resulting directory structure
